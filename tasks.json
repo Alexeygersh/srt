@@ -1,0 +1,4 @@
+{
+  "label": "Run Python file",
+  "command": "python3 $ZED_FILE"
+}

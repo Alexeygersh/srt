@@ -1,0 +1,4 @@
+build/
+dist/
+/PipelineModel.spec
+*.db
